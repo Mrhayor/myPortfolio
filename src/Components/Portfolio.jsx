@@ -14,8 +14,8 @@ export default function Portfolio() {
 
             <div>
                 <h1>Projects worked on</h1>
-                <div>
-                    <span><img src="./src/hrlibrary.png" alt="scsd" /></span>
+                <div className="images">
+                  <img src="https://res.cloudinary.com/dz0drrrvm/image/upload/v1706198903/hrlibrary_edited_eflldu.jpg" alt="" />
                     <a href="https://mrhayor.github.io/HrLibrary">mrhayor.github.io/HrLibrary</a>
                     hrLibrary platform that is used to search the 
                 </div>
